@@ -29,6 +29,68 @@ This repository demonstrates expertise in **Python**, **SQL**, **Power BI**, and
 
 ---
 
+## 🛠️ How to Use This Project
+
+### **1. Clone the Repository**
+
+```bash
+git clone https://github.com/nagpuresrushti/Customer_Behavior_Dashboard.git
+cd Customer_Behavior_Dashboard
+```
+
+---
+
+### **2. Open the Jupyter Notebook**
+
+Open **`Customer_Shopping_Behavior_Analysis.ipynb`** to explore the full analytics workflow.
+This notebook includes:
+
+* **Data Import**
+* **Data Exploration (EDA)**
+* **Data Cleaning & Feature Engineering**
+* **Database Connection Setup**
+* **Loading Cleaned Data into MySQL / PostgreSQL / SQL Server**
+
+---
+
+### **3. Load Data into SQL Database**
+
+1. Create a database in **MySQL**, **PostgreSQL**, or **SQL Server**
+2. Update your DB credentials in the notebook
+3. Run the provided Python code to push the cleaned dataset into the SQL database
+
+---
+
+### **4. Run SQL Queries**
+
+Open **`customer_behavior_sql_queries.sql`** to answer business questions such as:
+
+* Revenue comparisons
+* Customer segmentation
+* Product trends
+* Subscription behavior
+* Discount-driven purchases
+
+Execute queries in your selected SQL environment.
+
+---
+
+### **5. Build the Power BI Dashboard**
+
+1. Open **`customer_behavior_dashboard.pbix`** in **Power BI Desktop**
+2. Connect Power BI to your SQL database
+3. Refresh data and interact with visuals
+4. Customize or extend the dashboard as needed
+
+---
+
+### **6. Create Report & Presentation**
+
+* Use insights from Python + SQL + Power BI to prepare the **final project report**
+* Build a clean, professional **presentation deck** using **Gamma AI**
+
+---
+
 ## 🚀 Project Steps
 
 ### **1️⃣ Data Loading (Python)**
@@ -88,43 +150,6 @@ Created a clean, modern PPT summarizing the workflow and key insights.
 * Young Adults & Adults are the highest-spending age groups
 * Discount usage influences purchase volume
 * Category-level trends help drive targeted marketing
-
----
-
-## ▶️ How to Run This Project
-
-### **1. Clone the Repository**
-
-```bash
-git clone https://github.com/nagpuresrushti/Customer_Behavior_Dashboard.git
-```
-
-### **2. Install Dependencies**
-
-```bash
-pip install -r requirements.txt
-```
-
-### **3. Run EDA Notebook**
-
-```bash
-jupyter notebook
-```
-
-### **4. Configure Database**
-
-Update credentials in the SQL/Python scripts based on your DB (PostgreSQL/MySQL/SQL Server).
-
-### **5. Open Power BI Dashboard**
-
-Load the `.pbix` file from the `dashboard/` folder.
-
-### **6. View Reports**
-
-Check the `reports/` folder for:
-
-* Final PDF/DOCX
-* Gamma Presentation
 
 ---
 
