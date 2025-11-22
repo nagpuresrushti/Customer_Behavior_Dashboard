@@ -1,12 +1,3 @@
-# Customer_Behavior_Dashboard
-
-Here is your **updated README section**, including the screenshot you uploaded.
-In GitHub Markdown, images are added using the `![]()` syntax — I’ve inserted your dashboard screenshot in the perfect place under the **Dashboard** section.
-
-You can copy-paste this directly into your `README.md`.
-
----
-
 # 📊 Customer Behavior Dashboard – End-to-End Data Analytics Project
 
 ## 📝 Overview
@@ -84,8 +75,6 @@ Built an interactive dashboard to visualize:
 ```markdown
 ![Customer Behavior Dashboard](./assets/dashboard.png)
 ```
-
-**Uploaded image used below:**
 ![Customer Behavior Dashboard](screnshot.png)
 
 ### **6️⃣ Final Report**
