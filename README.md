@@ -86,7 +86,7 @@ Built an interactive dashboard to visualize:
 ```
 
 **Uploaded image used below:**
-![Customer Behavior Dashboard](/mnt/data/572c3963-227f-4903-bf1d-550d4e0208b8.png)
+![Customer Behavior Dashboard](screnshot.png)
 
 ### **6️⃣ Final Report**
 
