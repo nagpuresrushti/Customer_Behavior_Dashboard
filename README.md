@@ -69,12 +69,6 @@ Built an interactive dashboard to visualize:
 * Subscription insights
 
 ### 📸 Dashboard Screenshot
-
-(Automatically handled by GitHub when uploaded)
-
-```markdown
-![Customer Behavior Dashboard](./assets/dashboard.png)
-```
 ![Customer Behavior Dashboard](screnshot.png)
 
 ### **6️⃣ Final Report**
